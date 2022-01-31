@@ -1,6 +1,5 @@
 # Curso em Video - Curso de HTML & CSS
 
-<hr>
 
 ### Arquivos e conteúdos do Curso HTML/CSS 5 do Curso em Vídeo
 
