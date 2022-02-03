@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Links</title>
+  </head>
+  <body>
+    <h1>Usando links Externos</h1>
+    <p>
+      Você pode usar o
+      <!--
+       target:
+        _blank - vai abrir o link em uma nova janela em branco
+        _self - vai abrir o link na janela ou frame atual (padrão)
+        _top - vai desfazer todos os frames e abrir o destino no navegador completo
+        _parent -  similar ao uso do _top em uma referência à janela mãe
+        nome-do-frame caso esteja usando frames, indicar o nome da janela a abrir
+      -->
+      <a
+        href="https://gustavoguanabara.github.io"
+        target="_blank"
+        rel="external"
+      >
+        <!-- USADO O EXTERNAL PARA REDIRECIONAR PARA UM SITE EXTERNO-->
+        meu repositório público no GitHub
+      </a>
+    </p>
+    <p>
+      Você pode acessar o
+      <a href="https://youtube.com/cursoemvideo/"
+        >meu canal gratuito no YouTube</a
+      >
+    </p>
+    <p>
+      Esta página é um oferecimento de
+      <a href="https://www.hostnet.com.br" target="_blank" rel="nofollow">
+        Hostnet</a
+      >
+    </p>
+
+    <h1>Links Internos</h1>
+    <p>
+      Esta é a primeira página do site. Se você quiser, pode acessar a segunda
+      <a href="pag002.html" rel="next">aqui</a>
+    </p>
+    <a href="noticias/pag003.html" rel="next"> a terceira aqui</a>
+
+    <h1>Links para Download</h1>
+    <ul>
+      <li>
+        <a
+          href="livro/meulivro.pdf"
+          download="meulivro.pdf"
+          type="application/pdf"
+          >Baixar o livro em PDF</a
+        >
+      </li>
+      <li>
+        <a
+          href="livro/meulivro.zip"
+          download="meulivro.zip"
+          type="application/pdf"
+          >Baixar o livro em ZIP</a
+        >
+      </li>
+    </ul>
+  </body>
+</html>
