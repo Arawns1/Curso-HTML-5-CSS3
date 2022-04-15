@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gradiente em CSS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        /* configurações globais do css */
+        height: 100%;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+      }
+      .div {
+        position: relative;
+        margin-left: 35%;
+        margin-top: 20%;
+        border-radius: 30px;
+        height: 150px;
+        width: 350px;
+        background-image: linear-gradient(
+          300deg,
+          #ffd15e,
+          #ff7c41,
+          #fe553f,
+          #f53c4e,
+          #d73c92,
+          #b231ba,
+          #6351ce
+        );
+        color: white;
+        text-align: center;
+      }
+      .div:hover {
+        cursor: pointer;
+      }
+      h1 {
+        padding-top: 50px;
+        height: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="div">
+      <h1>Gradiente em CSS</h1>
+    </div>
+  </body>
+</html>
