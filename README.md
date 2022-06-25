@@ -35,9 +35,9 @@ estáticos, tabelas.</span></li>
        <li><b>🤩Módulo 4 : </b> <span style="font-weight: 300; font-style: italic; font-size: 16px"></span> Quadros em linha, formulários, media queries,
            mobile first.</span></li> 
 <li><b>😎Módulo 5 : </b> <span style = "font-weight: 300; font-style: italic; font-size: 16px"> Flexbox, Grid Layout, projeto final.</span></li> 
-</ul style="columns: 2; column-gap: 80px;"> 
+</ul> 
  <h3>Desafios:</h3>
-   <ul>
+   <ul style="columns: 2; column-gap: 80px;">
    <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d001/index.html"> Desafio 001 </a></li>
    <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d002/index.html"> Desafio 002 </a></li>
    <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d003/index.html"> Desafio 003 </a></li>
