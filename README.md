@@ -23,7 +23,7 @@ multimídia, estilos.</span></b></li>
        </ul>
        <li><b>✅🧐Módulo 2 :</b><span style="font-weight: 300; font-style: italic; font-size: 16px"> Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade.</span>
        <ul style="columns: 2; column-gap: 80px;">
-       <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex001/index.html">EX001</a></li>
+       <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex001/cor%01.html">EX001</a></li>
        <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex002/index.html">EX002</a></li>
        <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex003/index.html">EX003</a></li>
        </ul>
