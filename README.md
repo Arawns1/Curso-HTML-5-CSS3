@@ -5,11 +5,14 @@
 ## :next_track_button: Módulos e Conteúdos do curso:
 
 <div style= "font-family: 'Montserrat', sans-serif;">
-   <ul style="list-style-type: '\9989\00A0\00A0';">
+   <ul style="list-style-position: inside;
+  
+  
+  list-style-type: '\2714\00A0\00A0'">
     <li><b>🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
 semântica da HTML5, textos, títulos, ligações,
 multimídia, estilos.</span></b></li>
-       <ul>
+       <ul style="columns: 2; column-gap: 80px;">
        <li> <a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2001/001/index.html"> EX001 </a></li>
         <li> <a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2001/002/index.html"> EX002 </a></li>
          <li> <a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2001/003/index.html"> EX003 </a></li>
