@@ -5,10 +5,7 @@
 ## :next_track_button: Módulos e Conteúdos do curso:
 
 <div style= "font-family: 'Montserrat', sans-serif;">
-   <ul style="list-style-position: inside;
-  
-  
-  list-style-type: '\2714\00A0\00A0'">
+   <ul>
     <li><b>✅🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
 semântica da HTML5, textos, títulos, ligações,
 multimídia, estilos.</span></b></li>
