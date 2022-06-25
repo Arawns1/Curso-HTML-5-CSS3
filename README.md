@@ -5,20 +5,7 @@
 <div style= "font-family: 'Montserrat', sans-serif;">
 <h1>⏭️ Módulos e Conteúdos do curso:</h1>
 <h2> <A href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/"> 🔗Acesse o pages aqui</A> </h2>
-   <ul style="columns: 2; column-gap: 80px;">
-   <h3>Desafios:</h3>
-   <ul>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d001/index.html"> Desafio 001 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d002/index.html"> Desafio 002 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d003/index.html"> Desafio 003 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d004/index.html"> Desafio 004 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d005/index.html"> Desafio 005</a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d006/index.html"> Desafio 006 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d007/index.html"> Desafio 007 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d008/index.html"> Desafio 008 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d009/index.html"> Desafio 009 </a></li>
-   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d010/index.html"> Desafio 010 </a></li>
-   </ul>
+   <ul >
     <li><b>✅🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
 semântica da HTML5, textos, títulos, ligações,
 multimídia, estilos.</span></b></li>
@@ -48,5 +35,18 @@ estáticos, tabelas.</span></li>
        <li><b>🤩Módulo 4 : </b> <span style="font-weight: 300; font-style: italic; font-size: 16px"></span> Quadros em linha, formulários, media queries,
            mobile first.</span></li> 
 <li><b>😎Módulo 5 : </b> <span style = "font-weight: 300; font-style: italic; font-size: 16px"> Flexbox, Grid Layout, projeto final.</span></li> 
-</ul> 
+</ul style="columns: 2; column-gap: 80px;"> 
+ <h3>Desafios:</h3>
+   <ul>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d001/index.html"> Desafio 001 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d002/index.html"> Desafio 002 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d003/index.html"> Desafio 003 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d004/index.html"> Desafio 004 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d005/index.html"> Desafio 005</a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d006/index.html"> Desafio 006 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d007/index.html"> Desafio 007 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d008/index.html"> Desafio 008 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d009/index.html"> Desafio 009 </a></li>
+   <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d010/index.html"> Desafio 010 </a></li>
+   </ul>
 </div>
