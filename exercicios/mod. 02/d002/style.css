@@ -10,6 +10,7 @@ body {
   background-color: #DADBDF;
   font-family: Raleway, sans-serif;
   margin: 0;
+  
 }
 header {
   background-color: #E6E7EB;
@@ -18,22 +19,34 @@ header {
   margin: auto;
   width: 40em;
   cursor: pointer;
+  box-shadow: 4px 5px 5px rgba(0, 0, 0, 0.199);
+  
 }
-nav {
-  background-color: #9b9c9e94;
+
+
+nav{
+  padding:10px;
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-style: bold;
 }
 nav > a{
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border-radius: 4px 4px 0px 0px;
   text-decoration: none;
-  color: black;
-  font-size: 16px;
-  margin-left:20px;
-  transition: font-size 1s;
-} 
+  transition-duration: 1s;
+ 
+}
 nav > a:hover{
+  cursor: pointer;
   text-decoration: underline;
-  font-size: 20px;
-  transition: font-size 0.5s;
-} 
+  background-color: rgba(0, 0, 0, 0.342);
+  color: #ffffff;
+ 
+}
+
 header > h1 {
   display: inline-block;
   font-family:Roboto, sans-serif;
@@ -44,7 +57,9 @@ header > h1 {
 }
 main {
   background-color: #E6E7EB;
-  margin: 10px 10px;
+  margin: auto;
+  max-width: 640px;
+  box-shadow: 4px 5px 5px rgba(0, 0, 0, 0.199);
 }
 section > a {
   text-decoration: none;
