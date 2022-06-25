@@ -41,9 +41,9 @@
             <li><a href="https://arawns1.github.io/Curso-HTML-5-CSS3
 /exercicios/mod.%2002/ex003/index.html">EX003</a></li>
             <li><a href="https://arawns1.github.io/Curso-HTML-5-CSS3
-/exercicios/mod.%2002/d001/index.html">desafio 01</a></li>
+/exercicios/mod.%2002/d001/index.html">Desafio 01</a></li>
             <li><a href="https://arawns1.github.io/Curso-HTML-5-CSS3
-/exercicios/mod.%2002/d002/index.html">desafio 02</a></li>
+/exercicios/mod.%2002/d002/index.html">Desafio 02</a></li>
          </ul>
       </li>
 <!-- MOD 3-->
