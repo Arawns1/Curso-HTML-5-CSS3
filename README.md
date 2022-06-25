@@ -5,6 +5,7 @@
 ## :next_track_button: Módulos e Conteúdos do curso:
 
 <div style= "font-family: 'Montserrat', sans-serif;">
+<h1> <A href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/">ACESSE O PAGES</A> </h1>
    <ul>
     <li><b>✅🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
 semântica da HTML5, textos, títulos, ligações,
@@ -22,11 +23,12 @@ multimídia, estilos.</span></b></li>
            <li> <a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2001/010/index.html"> EX010 </a></li>
        </ul>
        <li><b>✅🧐Módulo 2 :</b><span style="font-weight: 300; font-style: italic; font-size: 16px"> Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade.</span>
-       <ul>
+       <ul style="columns: 2; column-gap: 80px;">
        <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex001/index.html">EX001</a></li>
        <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex002/index.html">EX002</a></li>
        <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/ex003/index.html">EX003</a></li>
-       </ul></li> 
+       </ul>
+       </li> 
        <li><b>😉Módulo 3 : </b> <span style ="font-weight: 300; font-style: italic; font-size: 16px"> Versionamento de software, hospedagem de sites
 estáticos, tabelas.</span></li> 
        <li><b>🤩Módulo 4 : </b> <span style="font-weight: 300; font-style: italic; font-size: 16px"></span> Quadros em linha, formulários, media queries,
