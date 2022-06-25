@@ -2,9 +2,8 @@
 
 ## Arquivos e conteúdos do Curso HTML/CSS 5 do Curso em Vídeo
 
-<h1>⏭️ Módulos e Conteúdos do curso:</h1>
-
 <div style= "font-family: 'Montserrat', sans-serif;">
+<h1>⏭️ Módulos e Conteúdos do curso:</h1>
 <h2> <A href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/"> <span style="font-family: 'Roboto', 'Montserrat', sans-serif; text-align: center";>🔗Acesse o pages aqui</span></A> </h2>
    <ul>
     <li><b>✅🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
