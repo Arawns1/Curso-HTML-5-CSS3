@@ -7,7 +7,7 @@
 
 <div style= "font-family: 'Montserrat', sans-serif;">
    <ul>
-    <li><b>🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
+    <li><b> U+2714 🤓Módulo 1 : <span class ="textos" style="font-weight: 300; font-style: italic; font-size: 16px">Conceitos básicos, preparação do ambiente,
 semântica da HTML5, textos, títulos, ligações,
 multimídia, estilos.</span></b></li>
        <li><b>🧐Módulo 2 :</b><span style="font-weight: 300; font-style: italic; font-size: 16px"> Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade.</span></li> 
