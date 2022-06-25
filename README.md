@@ -17,7 +17,7 @@
             <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/010/index.html"> EX008 </a></li>
             <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/010b/index.html"> EX009 </a></li>
             <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/011/index.html"> EX010 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/011b/index.html"> EX010 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/011b/index.html"> EX010b </a></li>
          </ul>
       </li>
  <!--fim MOD 1 -->
