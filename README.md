@@ -31,14 +31,15 @@ multimídia, estilos.</span></b></li>
               <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/d001/index.html">desafio 01</a></li>
               <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/exercicios/mod.%2002/d002/index.html">desafio 02</a></li>
        </ul>
-    </li> 
-    <li><b>😉Módulo 3 : </b> <span style ="font-weight: 300; font-style: italic; font-size: 16px"> Versionamento de software, hospedagem de sites estáticos, tabelas.</span></li> 
-    <li><b>🤩Módulo 4 : </b> <span style="font-weight: 300; font-style: italic; font-size: 16px"></span> Quadros em linha, formulários, media queries, mobile first.</span></li> 
-    <li><b>😎Módulo 5 : </b> <span style = "font-weight: 300; font-style: italic; font-size: 16px"> Flexbox, Grid Layout, projeto final.</span></li> 
+    </li>
+    <li><b>😉Módulo 3 : </b> <span style ="font-weight: 300; font-style: italic; font-size: 16px"> Versionamento de software, hospedagem de sites estáticos, tabelas.</span></li>
+    <li><b>🤩Módulo 4 : </b> <span style="font-weight: 300; font-style: italic; font-size: 16px"></span> Quadros em linha, formulários, media queries, mobile first.</span></li>
+    <li><b>😎Módulo 5 : </b> <span style = "font-weight: 300; font-style: italic; font-size: 16px"> Flexbox, Grid Layout, projeto final.</span></li>
+
 </ul> 
 <!-- FIM UL DE MÓDULOS -->
 <!-- DESAFIOS -->
-<h3>Desafios:</h3>
+<h3> 🦾 Desafios:</h3>
 <ul style="columns: 2;">
    <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d001/index.html"> Desafio 001 </a></li>
    <li><a href="https://arawns1.github.io/Curso-em-Video-Curso-HTML/desafios/d002/index.html"> Desafio 002 </a></li>
