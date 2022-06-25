@@ -11,12 +11,13 @@
             <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/002/index.html"> EX002 </a></li>
             <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/003/index.html"> EX003 </a></li>
             <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/004/index.html"> EX004 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/005/index.html"> EX005 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/006/index.html"> EX006 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/007/index.html"> EX007 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/008/index.html"> EX008 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/009/index.html"> EX009 </a></li>
-            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/010/index.html"> EX010 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/006/index.html"> EX005 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/007/index.html"> EX006 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/009/index.html"> EX007 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/010/index.html"> EX008 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/010b/index.html"> EX009 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/011/index.html"> EX010 </a></li>
+            <li> <a href="https://arawns1.github.io/Curso-HTML-5-CSS3/exercicios/mod.%2001/011b/index.html"> EX010 </a></li>
          </ul>
       </li>
  <!--fim MOD 1 -->
